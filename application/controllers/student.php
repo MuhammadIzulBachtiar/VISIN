@@ -20,7 +20,7 @@ class student extends CI_Controller {
 	 */
 	public function index()
     {
-		//gender pie chart
+		//data gender siswa
         $source=file_get_contents('assets/StudentJson.json');
         $source=json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $source), true);
         $result=array();
@@ -45,7 +45,7 @@ class student extends CI_Controller {
         $data['PieChartTitle']='Data Gender Siswa';
         $this->load->view('student',$data);
 
-		//major
+		// data major
 		$source=file_get_contents('assets/StudentJson.json');
         $source=json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $source), true);
         $result=array();
@@ -70,7 +70,7 @@ class student extends CI_Controller {
         $data['BarChartTitle']='Data Major';
         $this->load->view('student',$data);
 
-		 //grade data line chart
+		 //grade data 
 		 $grade=[array('TANGGAL','Grade')];
 		 foreach($source as $row)
 		 {

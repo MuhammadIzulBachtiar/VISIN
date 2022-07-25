@@ -45,7 +45,7 @@ class jsonsource extends CI_Controller {
         $data['PieChartTitle']='Data Sales Channel';
         $this->load->view('grafik',$data);
 
-        //
+        // Data customer Country
         $result=array();
         $keysArray=array();
         foreach($source as $row)
@@ -65,7 +65,7 @@ class jsonsource extends CI_Controller {
             $custcountry[]=[$row,count($result[$row])];
         }
         $data['PieChartData2']=json_encode($custcountry);
-        $data['PieChartTitle2']='Data Sales Channel';
+        $data['PieChartTitle2']='Data customer Country';
         $this->load->view('grafik',$data);
 
         // data penjualan berdasarkan waktu
@@ -85,7 +85,7 @@ class jsonsource extends CI_Controller {
 
         $this->load->view('grafik',$data);
 
-         // sales total per bulan
+         // Akumulasi total penjualan per bulan tahun 2011 & 2012
          $salesTotal=[array('BULAN','TOTAL SOLD 2012', 'TOTAL SOLD 2011')];
          $totalData=array('2011'=>array(),'2012'=>array());
          foreach($source as $row)
