@@ -1,0 +1,299 @@
+[
+    {
+        "custId": "10001",
+        "custName": "Candice Levy",
+        "custCountry": "Canada",
+        "productSold": "SUPA101",
+        "salesChannel": "Retail",
+        "unitsSold": "117",
+        "dateSold": "2012-08-09"
+    },
+    {
+        "custId": "10002",
+        "custName": "Xerxes Smith",
+        "custCountry": "Panama",
+        "productSold": "DETA200",
+        "salesChannel": "Retail",
+        "unitsSold": "73",
+        "dateSold": "2011-07-06"
+    },
+    {
+        "custId": "10003",
+        "custName": "Levi Doulas",
+        "custCountry": "Canada",
+        "productSold": "SUPA800",
+        "salesChannel": "Retail",
+        "unitsSold": "205",
+        "dateSold": "2012-08-22"
+    },
+    {
+        "custId": "10004",
+        "custName": "Ariel Benton",
+        "custCountry": "South Africa",
+        "productSold": "SUPA101",
+        "salesChannel": "Online",
+        "unitsSold": "140",
+        "dateSold": "2012-09-09"
+    },
+    {
+        "custId": "10005",
+        "custName": "Renata Rawles",
+        "custCountry": "Italy",
+        "productSold": "DETA002",
+        "salesChannel": "Retail",
+        "unitsSold": "100",
+        "dateSold": "2012-06-11"
+    },
+    {
+        "custId": "10006",
+        "custName": "Ayu Puji",
+        "custCountry": "Indonesia",
+        "productSold": "DETA555",
+        "salesChannel": "Online",
+        "unitsSold": "110",
+        "dateSold": "2011-05-19"
+    },
+    {
+        "custId": "10007",
+        "custName": "Mark Lee",
+        "custCountry": "Canada",
+        "productSold": "SUPA100",
+        "salesChannel": "Retail",
+        "unitsSold": "312",
+        "dateSold": "2012-05-16"
+    },
+    {
+        "custId": "10008",
+        "custName": "Jhony Suh",
+        "custCountry": "USA",
+        "productSold": "SUPA111",
+        "salesChannel": "Online",
+        "unitsSold": "51",
+        "dateSold": "2012-08-01"
+    },
+    {
+        "custId": "10009",
+        "custName": "Yabuki Nako",
+        "custCountry": "Japan",
+        "productSold": "DETA001",
+        "salesChannel": "Retail",
+        "unitsSold": "213",
+        "dateSold": "2012-07-30"
+    },
+    {
+        "custId": "10010",
+        "custName": "Kang Hyewon",
+        "custCountry": "South Korea",
+        "productSold": "SUPA100",
+        "salesChannel": "Online",
+        "unitsSold": "200",
+        "dateSold": "2012-06-15"
+    },
+    {
+        "custId": "10011",
+        "custName": "Rose A",
+        "custCountry": "Malaysia",
+        "productSold": "DETA132",
+        "salesChannel": "Retail",
+        "unitsSold": "100",
+        "dateSold": "2012-07-11"
+    },
+    {
+        "custId": "10012",
+        "custName": "Max Jhonson",
+        "custCountry": "USA",
+        "productSold": "SUPA101",
+        "salesChannel": "Retail",
+        "unitsSold": "117",
+        "dateSold": "2012-10-09"
+    },
+    {
+        "custId": "10013",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "180",
+        "dateSold": "2012-10-11"
+    },
+    {
+        "custId": "10014",
+        "custName": "Joko Anwar",
+        "custCountry": "Indonesia",
+        "productSold": "DETA101",
+        "salesChannel": "Retail",
+        "unitsSold": "300",
+        "dateSold": "2012-05-09"
+    },
+    {
+        "custId": "10015",
+        "custName": "Lee Taeyoung",
+        "custCountry": "South Korea",
+        "productSold": "SUPA151",
+        "salesChannel": "Online",
+        "unitsSold": "417",
+        "dateSold": "2012-06-20"
+    },
+    {
+        "custId": "10016",
+        "custName": "Renata Rawles",
+        "custCountry": "Italy",
+        "productSold": "DETA002",
+        "salesChannel": "Online",
+        "unitsSold": "100",
+        "dateSold": "2011-06-24"
+    },
+    {
+        "custId": "10017",
+        "custName": "Levi Doulas",
+        "custCountry": "Tanzania",
+        "productSold": "SUPA800",
+        "salesChannel": "Retail",
+        "unitsSold": "400",
+        "dateSold": "2011-08-01"
+    },
+    {
+        "custId": "10018",
+        "custName": "Ariel Benton",
+        "custCountry": "South Africa",
+        "productSold": "SUPA101",
+        "salesChannel": "Online",
+        "unitsSold": "120",
+        "dateSold": "2011-09-19"
+    },
+    {
+        "custId": "10019",
+        "custName": "Candice Lena",
+        "custCountry": "Indonesia",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "99",
+        "dateSold": "2011-10-30"
+    },
+    {
+        "custId": "10020",
+        "custName": "Candice Lena",
+        "custCountry": "South Korea",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "99",
+        "dateSold": "2012-01-04"
+    },
+    {
+        "custId": "10021",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "399",
+        "dateSold": "2012-02-20"
+    },
+    {
+        "custId": "10022",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Retail",
+        "unitsSold": "321",
+        "dateSold": "2012-03-30"
+    },
+    {
+        "custId": "10023",
+        "custName": "Candice Lena",
+        "custCountry": "South Korea",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "79",
+        "dateSold": "2012-04-14"
+    },
+    {
+        "custId": "10024",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "300",
+        "dateSold": "2012-04-11"
+    },
+    {
+        "custId": "10025",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "179",
+        "dateSold": "2011-01-14"
+    },
+    {
+        "custId": "10026",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "79",
+        "dateSold": "2011-02-24"
+    },
+    {
+        "custId": "10027",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "222",
+        "dateSold": "2011-03-07"
+    },
+    {
+        "custId": "10028",
+        "custName": "Candice Lena",
+        "custCountry": "USA",
+        "productSold": "DETA005",
+        "salesChannel": "Retail",
+        "unitsSold": "79",
+        "dateSold": "2011-04-24"
+    },
+    {
+        "custId": "10029",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "222",
+        "dateSold": "2011-03-17"
+    },
+    {
+        "custId": "10030",
+        "custName": "Candice Lena",
+        "custCountry": "Italy",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "422",
+        "dateSold": "2011-11-17"
+    },
+    {
+        "custId": "10031",
+        "custName": "Candice Lena",
+        "custCountry": "USA",
+        "productSold": "DETA005",
+        "salesChannel": "Online",
+        "unitsSold": "322",
+        "dateSold": "2011-12-17"
+    },
+    {
+        "custId": "10032",
+        "custName": "Candice Lena",
+        "custCountry": "France",
+        "productSold": "DETA005",
+        "salesChannel": "Retail",
+        "unitsSold": "522",
+        "dateSold": "2011-06-17"
+    },
+    {
+        "custId": "10033",
+        "custName": "Candice Lena",
+        "custCountry": "Indonesia",
+        "productSold": "DETA005",
+        "salesChannel": "Retail",
+        "unitsSold": "422",
+        "dateSold": "2011-09-17"
+    }
+]
